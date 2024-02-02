@@ -1,4 +1,4 @@
-
+![Todo App Screenshot](Screenshot.png)
 ```markdown
 # React Todo App with Vite
 
